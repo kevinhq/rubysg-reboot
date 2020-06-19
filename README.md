@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/rubysg/rubysg-reboot)
+
 # ruby.sg
 
 [![Build Status](https://travis-ci.org/rubysg/rubysg-reboot.svg?branch=master)](https://travis-ci.org/rubysg/rubysg-reboot) [![Code Climate](https://codeclimate.com/github/rubysg/rubysg-reboot.svg)](https://codeclimate.com/github/rubysg/rubysg-reboot)
